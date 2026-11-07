@@ -6,7 +6,7 @@
 
 This project demonstrates the use of Artificial Intelligence and Prompt Engineering to generate professional website content for local businesses.
 
-For this task, Crumbz Cafe, a sample local cafe in Chandapura, Bengaluru, was selected.
+For this task, Crumbz Cafe, a local cafe in Chandapura, Bengaluru, was selected as the business for developing website content.
 
 ChatGPT was used to create simple, attractive and customer-friendly website copy.
 
