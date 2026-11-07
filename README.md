@@ -64,6 +64,9 @@ Includes an attractive heading, welcoming description, invitation to visit, cont
 4. **Prompt_Documentation.docx**
    - Contains the prompts and Prompt Engineering techniques used.
 
+5. **Reusable_Prompt_Framework.docx**
+   - Contains a reusable master prompt for different local businesses.
+
 ### Learning Outcomes
 
 - Learned how to write effective AI prompts.
